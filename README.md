@@ -21,9 +21,9 @@
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/da4isy">
-        <img src="https://github.com/da4isy.png" width="120" /><br/>
-        <b>정다희</b>
+      <a href="https://github.com/Kimchuljoong">
+        <img src="https://github.com/Kimchuljoong.png" width="120" /><br/>
+        <b>김철중</b>
       </a>
     </td>
     <td align="center">
