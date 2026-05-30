@@ -53,12 +53,6 @@
   </tr>
   <tr>
     <td align="center">
-      <a href="https://github.com/zeexzeex">
-        <img src="https://github.com/zeexzeex.png" width="120" /><br/>
-        <b>김지혜</b>
-      </a>
-    </td>
-    <td align="center">
       <a href="https://github.com/yewonahn">
         <img src="https://github.com/yewonahn.png" width="120" /><br/>
         <b>안예원</b>
